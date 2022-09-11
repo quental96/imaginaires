@@ -1,0 +1,8 @@
+
+numpy
+pandas
+cv2
+PIL
+torch
+torchvision
+detectron2
